@@ -1,12 +1,3 @@
-/*
- * CS250
- *
- * simple.l: simple parser for the simple "C" language
- *
- * (C) Copyright Gustavo Rodriguez-Rivera grr@purdue.edu
- *
- * IMPORTANT: Do not post in Github or other public repository
- */
 
 %token	<string_val> WORD
 
