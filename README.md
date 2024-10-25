@@ -1,1 +1,1 @@
-C compiler only built to compile a subset of the master C language. 
+C compiler built to compile a subset of C
